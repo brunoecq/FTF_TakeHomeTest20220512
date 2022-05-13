@@ -50,4 +50,4 @@ yarn start
 ```
 
 ## Open the browser with the url: localhost:3000 or Reload the current browser tab already opened or Click the Reload button in the App
-
+  
